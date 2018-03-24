@@ -9,5 +9,4 @@ public class I88ca {
 	public void helloworld(String world) {
 		System.out.println("Hello " + world + "!");
 	}
-
 }

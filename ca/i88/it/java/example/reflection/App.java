@@ -3,10 +3,6 @@ package ca.i88.it.java.example.reflection;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
 	public static void main(String[] args) throws InstantiationException,
