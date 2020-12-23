@@ -1,9 +1,9 @@
-package ca.i88.it.java.example.reflection;
+package info.goyun.java.example.reflection;
 
-public class I88ca {
+public class GoyunInfo {
 
 	public void helloworld() {
-		System.out.println("Hello i88.ca!");
+		System.out.println("Hello goyun.info!");
 	}
 
 	public void helloworld(String world) {
