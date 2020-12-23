@@ -1,6 +1,5 @@
-ca.i88.it.java.example.reflection
+Java reflection example
 =================================
 
-Java reflection example
+https://jobs.goyun.info/2020/07/java-reflection-example.html
 
-http://it.i88.ca/2013/08/java-reflection-example.html
